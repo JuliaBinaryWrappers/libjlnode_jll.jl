@@ -1,0 +1,80 @@
+[[libjlnode]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "37479fc18d69b45071408bd6261d9376c49a3367"
+libc = "glibc"
+os = "linux"
+
+    [[libjlnode.download]]
+    sha256 = "73dcd44d38219bb598f305cc0005b75ded57aab1e482e6e099df82c43d9b5dae"
+    url = "https://github.com/JuliaBinaryWrappers/libjlnode_jll.jl/releases/download/libjlnode-v14.17.3+0/libjlnode.v14.17.3.aarch64-linux-gnu-cxx03.tar.gz"
+[[libjlnode]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "38f3ebfabe0bc545449ddf6d428433728abb8d02"
+libc = "glibc"
+os = "linux"
+
+    [[libjlnode.download]]
+    sha256 = "e9e9db37effe06d26bbe4a5eb65921a8f9592a03ff08733d657e6a5c96178301"
+    url = "https://github.com/JuliaBinaryWrappers/libjlnode_jll.jl/releases/download/libjlnode-v14.17.3+0/libjlnode.v14.17.3.aarch64-linux-gnu-cxx11.tar.gz"
+[[libjlnode]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c97c14fab85ea73118be464a21623de331b08fa5"
+libc = "musl"
+os = "linux"
+
+    [[libjlnode.download]]
+    sha256 = "f42a9725811e982ec25b5202cda0429e410684b44d047f44f1b0fa5e39eec224"
+    url = "https://github.com/JuliaBinaryWrappers/libjlnode_jll.jl/releases/download/libjlnode-v14.17.3+0/libjlnode.v14.17.3.aarch64-linux-musl-cxx03.tar.gz"
+[[libjlnode]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6879b1543911f8602d5afa8ff453e3ee21af64f2"
+libc = "musl"
+os = "linux"
+
+    [[libjlnode.download]]
+    sha256 = "320d535631f0e4aba258d3f9ec16bc83ae7c55072e28abfbfb4df9f71af7976d"
+    url = "https://github.com/JuliaBinaryWrappers/libjlnode_jll.jl/releases/download/libjlnode-v14.17.3+0/libjlnode.v14.17.3.aarch64-linux-musl-cxx11.tar.gz"
+[[libjlnode]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4fb7eab7e410ca22cb08ea83f08e44714f3df677"
+libc = "glibc"
+os = "linux"
+
+    [[libjlnode.download]]
+    sha256 = "5049703385e019acca974c1e575fcd016ea7258cb5ab6656c00a0727b1728c87"
+    url = "https://github.com/JuliaBinaryWrappers/libjlnode_jll.jl/releases/download/libjlnode-v14.17.3+0/libjlnode.v14.17.3.x86_64-linux-gnu-cxx03.tar.gz"
+[[libjlnode]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8097d75feb42b4fc88337e2191b1c1a9bdc6ce24"
+libc = "glibc"
+os = "linux"
+
+    [[libjlnode.download]]
+    sha256 = "ec9747a7e5bee002dbfdc9e24f2026007b1bc3575f451cba6298d9d8f2f34896"
+    url = "https://github.com/JuliaBinaryWrappers/libjlnode_jll.jl/releases/download/libjlnode-v14.17.3+0/libjlnode.v14.17.3.x86_64-linux-gnu-cxx11.tar.gz"
+[[libjlnode]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ab4d74363a90ada74a323b4a8a9d12cc08354574"
+libc = "musl"
+os = "linux"
+
+    [[libjlnode.download]]
+    sha256 = "14b1d76187e71eade7542fe65042153b452777689c9d9f4092c89dd9653b4532"
+    url = "https://github.com/JuliaBinaryWrappers/libjlnode_jll.jl/releases/download/libjlnode-v14.17.3+0/libjlnode.v14.17.3.x86_64-linux-musl-cxx03.tar.gz"
+[[libjlnode]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ab8b4925dc914a165ccc2658cd254840a2981ffa"
+libc = "musl"
+os = "linux"
+
+    [[libjlnode.download]]
+    sha256 = "65c1dd7a452f15e2a3497655a4a6f999b42e1d023e481d49ca48f4a91a14e9c3"
+    url = "https://github.com/JuliaBinaryWrappers/libjlnode_jll.jl/releases/download/libjlnode-v14.17.3+0/libjlnode.v14.17.3.x86_64-linux-musl-cxx11.tar.gz"
